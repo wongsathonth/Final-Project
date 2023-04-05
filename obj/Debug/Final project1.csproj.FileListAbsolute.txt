@@ -1,0 +1,18 @@
+C:\Users\ASUS\Documents\Lap5\Final project1\Final project1\bin\Debug\Final project1.exe.config
+C:\Users\ASUS\Documents\Lap5\Final project1\Final project1\bin\Debug\Final project1.exe
+C:\Users\ASUS\Documents\Lap5\Final project1\Final project1\bin\Debug\Final project1.pdb
+C:\Users\ASUS\Documents\Lap5\Final project1\Final project1\obj\Debug\Final project1.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\Lap5\Final project1\Final project1\obj\Debug\Final project1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Documents\Lap5\Final project1\Final project1\obj\Debug\Final_project1.Form1.resources
+C:\Users\ASUS\Documents\Lap5\Final project1\Final project1\obj\Debug\Final_project1.Properties.Resources.resources
+C:\Users\ASUS\Documents\Lap5\Final project1\Final project1\obj\Debug\Final project1.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\Lap5\Final project1\Final project1\obj\Debug\Final project1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Lap5\Final project1\Final project1\obj\Debug\Final project1.exe
+C:\Users\ASUS\Documents\Lap5\Final project1\Final project1\obj\Debug\Final project1.pdb
+C:\Users\ASUS\Documents\Lap5\Final project1\Final project1\bin\Debug\EPPlus.dll
+C:\Users\ASUS\Documents\Lap5\Final project1\Final project1\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\ASUS\Documents\Lap5\Final project1\Final project1\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\ASUS\Documents\Lap5\Final project1\Final project1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\ASUS\Documents\Lap5\Final project1\Final project1\bin\Debug\EPPlus.xml
+C:\Users\ASUS\Documents\Lap5\Final project1\Final project1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\ASUS\Documents\Lap5\Final project1\Final project1\obj\Debug\Final project1.csproj.CopyComplete
